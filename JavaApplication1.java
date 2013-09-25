@@ -110,6 +110,18 @@ public class JavaApplication1 {
         // fin suppression du livre
         */
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
         for (int i = 0; i < documentCount; i++) {
             JSONObject document = root.getJSONObject(i);
             if (document.getString("title").equals("Design Patterns - Elements of Reusable Object-Oriented Software")) {
