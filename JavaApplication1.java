@@ -32,6 +32,46 @@ public class JavaApplication1 {
         
         JSONArray root = (JSONArray) JSONSerializer.toJSON(jSonText);
         
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
         int documentCount = root.size();
         for (int i = 0; i < documentCount; i++) {
             JSONObject document = root.getJSONObject(i);
